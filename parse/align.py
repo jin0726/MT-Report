@@ -1,5 +1,5 @@
 res = []
-with open("enaf_parallel.train.af1.af", 'r') as a, open ("enaf_parallel.train.en1.en", 'r') as b:
+with open("enaf_parallel.train.af", 'r') as a, open ("enaf_parallel.train.en", 'r') as b:
     for row in zip(b, a):
         x, y = row
         x = x.strip('\n')
