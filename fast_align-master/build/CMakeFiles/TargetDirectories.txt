@@ -1,0 +1,4 @@
+/Users/jincao/Documents/11731-MT/fast_align-master/build/CMakeFiles/rebuild_cache.dir
+/Users/jincao/Documents/11731-MT/fast_align-master/build/CMakeFiles/edit_cache.dir
+/Users/jincao/Documents/11731-MT/fast_align-master/build/CMakeFiles/atools.dir
+/Users/jincao/Documents/11731-MT/fast_align-master/build/CMakeFiles/fast_align.dir
